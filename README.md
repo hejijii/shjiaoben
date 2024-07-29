@@ -10,3 +10,5 @@ sudo apt install dos2unix
 dos2unix setup.sh
 
 chmod +x setup.sh
+
+bash <(curl -fsSL https://get.hy2.sh/)
